@@ -6,3 +6,7 @@ app = FastAPI(docs_url="/api/.docs", openapi_url="/api/openapi.json")
 @app.get("/api/hello")
 async def root():
     return {"message": "Hello World"}
+
+@app.get("/api/test")
+async def test():
+    return {"message": "Hello test"}
