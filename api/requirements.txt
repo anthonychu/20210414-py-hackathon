@@ -1,4 +1,2 @@
-# Do not include azure-functions-worker as it may conflict with the Azure Functions platform
-
-azure-functions
 fastapi
+git+https://github.com/anthonychu/swa-api-python.git@main

@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": ".venv/bin/python",
+    "python.pythonPath": "/Users/antchu/source/temp/20210414-py-hackathon/.venv/bin/python3",
     "files.exclude": {
         ".api": true,
         ".venv": true
